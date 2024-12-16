@@ -46,7 +46,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar nova
 
 ## 🌐 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldo-dck)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ronaldo-drecksler-679323239)  
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ronaldodreckslerfp@email.com)  
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo!  
