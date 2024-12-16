@@ -1,8 +1,10 @@
 # Olá, sou [Ronaldo Drecksler]! 👋  
 
-🎓 **Estudante de Ciência da Computação** | 💻 **Apaixonado por Desenvolvimento de Software e Jogos** | 🚀 **Aprendendo Japonês e Neurociências**  
+🎓 **Estudante de Ciência da Computação** 
+💻 **Apaixonado por Desenvolvimento de Software e Jogos** 
+🚀 **Aprendendo Japonês e Neurociências**  
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar novas tecnologias e trabalhar em projetos desafiadores. Meu foco atual está em aprendizado por reforço, criação de dashboards interativos e desenvolvimento de sistemas back-end com Java e Spring.  
+Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar novas tecnologias e trabalhar em projetos desafiadores. Meu foco atual está em aprendizado por reforço.
 
 ---
 
@@ -12,12 +14,11 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar nova
   - Detecção de bugs em jogos com aprendizado por reforço.  
 
 - 🌱 **O que estou aprendendo agora**:  
-  - Construção de dashboards com Pandas, Matplotlib e NumP.  
-  - Redes LSTM para previsão e análise de séries temporais.  
+  - Spring Boot.    
   - Japonês 
 
 - 🎮 **Interesses**:  
-  - Desenvolvimento de jogos com Godot Engine e física de colisão.  
+  - Desenvolvimento de jogos com Godot Engine.  
   - Aplicação de aprendizado por reforço em simulações e jogos.  
 
 - 🧪 **Pesquisas e Estudos**:  
@@ -45,7 +46,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar nova
 
 ## 🌐 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seuemail@email.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldo-dck)  
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ronaldodreckslerfp@email.com)  
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo!  
