@@ -1,6 +1,6 @@
-# Olá, sou [Seu Nome]! 👋  
+# Olá, sou [Ronaldo Drecksler]! 👋  
 
-🎓 **Estudante de Ciência da Computação** | 💻 **Apaixonado por Desenvolvimento de Software e Jogos** | 🚀 **Aprendendo Japonês e Técnicas de IA**  
+🎓 **Estudante de Ciência da Computação** | 💻 **Apaixonado por Desenvolvimento de Software e Jogos** | 🚀 **Aprendendo Japonês e Neurociências**  
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar novas tecnologias e trabalhar em projetos desafiadores. Meu foco atual está em aprendizado por reforço, criação de dashboards interativos e desenvolvimento de sistemas back-end com Java e Spring.  
 
@@ -39,8 +39,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasta que adora explorar nova
 
 ## 📊 Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldo-dck&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-dck&layout=compact&theme=radical)  
 
 ---
 
