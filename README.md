@@ -1,6 +1,7 @@
 # Hello, I'm Ronaldo Drecksler! 👋
 
 🎓 **Bachelor’s Degree in Computer Science**
+
 🎓 **Special Graduate Student (Master’s level)**
 
 Welcome to my profile!
